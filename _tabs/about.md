@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+
 ## About Me
 Hello there! I'm Olaf, a dedicated IT professional who moonlights as a mad scientist in my homelab. When I'm not lost in a sea of cables, I'm trying to keep my garden from turning into a jungle and keeping up with my gang of mischief-makers—my rescue Boonies.
 
